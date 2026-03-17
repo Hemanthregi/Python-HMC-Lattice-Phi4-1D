@@ -1,5 +1,5 @@
 # Python-HMC-Lattice-Phi4-1D
-Minimal Python implementation of a Hamiltonian Monte Carlo (HMC) applied to a 1D lattice scalar $\phi^4$ field theory, demonstrating basic lattice observables and mass extraction from correlation functions.
+Minimal Python implementation of the Hamiltonian Monte Carlo (HMC) algorithm applied to a 1D lattice scalar $\phi^4$ field theory, demonstrating basic lattice observables and mass extraction from correlation functions.
 ---
 
 ## Overview
