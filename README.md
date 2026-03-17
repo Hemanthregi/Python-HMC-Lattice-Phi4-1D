@@ -136,8 +136,7 @@ hmc_phi4_trace.png
 ```
   
 
-### Correlator
-- Exhibits exponential decay  
+### Correlator 
 - Shows exponential decay consistent with a finite correlation length  
 
 ### Effective Mass
