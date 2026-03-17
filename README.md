@@ -185,3 +185,18 @@ This project is intended as a **conceptual demonstration of lattice field theory
 ## License
 
 MIT License
+
+## Example Plots
+
+### Spatial Correlator
+![Correlator](hmc_phi4_correlation.png)
+
+### Field Distribution Histogram
+![Histogram](hmc_phi4_hist.png)
+
+### Effective Mass
+![Mass](hmc_phi4_mass.png)
+
+### HMC Trace
+![Trace](hmc_phi4_trace.png)
+
